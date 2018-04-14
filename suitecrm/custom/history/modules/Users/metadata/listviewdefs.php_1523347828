@@ -1,0 +1,124 @@
+<?php
+$listViewDefs ['Users'] = 
+array (
+  'NAME' => 
+  array (
+    'width' => '30%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'related_fields' => 
+    array (
+      0 => 'last_name',
+      1 => 'first_name',
+    ),
+    'orderBy' => 'last_name',
+    'default' => true,
+  ),
+  'DEPARTMENT' => 
+  array (
+    'width' => '15%',
+    'label' => 'LBL_DEPARTMENT',
+    'link' => true,
+    'default' => true,
+  ),
+  'CCF_QUAL_MED_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_QUAL_MED',
+    'width' => '10%',
+  ),
+  'CCF_FIRE_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_FIRE',
+    'width' => '10%',
+  ),
+  'CCF_LE_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_LE',
+    'width' => '10%',
+  ),
+  'CCF_LAW_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_LAW',
+    'width' => '10%',
+  ),
+  'CCF_FIN_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_FIN',
+    'width' => '10%',
+  ),
+  'CCF_MUSIC_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_MUSIC',
+    'width' => '10%',
+  ),
+  'CCF_DANCE_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_DANCE',
+    'width' => '10%',
+  ),
+  'CCF_IT_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_IT',
+    'width' => '10%',
+  ),
+  'CCF_PLAN_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_PLAN',
+    'width' => '10%',
+  ),
+  'CCF_LOGISTICS_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_LOGISTICS',
+    'width' => '10%',
+  ),
+  'CCF_AUDIO_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_AUDIO',
+    'width' => '10%',
+  ),
+  'CCF_VIDEO_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_VIDEO',
+    'width' => '10%',
+  ),
+  'CCF_DGROUP_LEADER_C' => 
+  array (
+    'type' => 'varchar',
+    'default' => false,
+    'label' => 'LBL_CCF_DGROUP_LEADER',
+    'width' => '10%',
+  ),
+  'IS_GROUP' => 
+  array (
+    'width' => '10%',
+    'label' => 'LBL_LIST_GROUP',
+    'link' => true,
+    'default' => false,
+  ),
+);
+;
+?>

@@ -1,0 +1,215 @@
+Fri Apr 13 10:44:49 2018 [736][1][FATAL] field_defs should be an array
+Fri Apr 13 10:48:10 2018 [1102][1][FATAL] field_defs should be an array
+Fri Apr 13 11:24:36 2018 [1292][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[admin]
+Fri Apr 13 11:25:01 2018 [733][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Apr 13 11:26:58 2018 [1297][1][FATAL] field_defs should be an array
+Fri Apr 13 11:29:09 2018 [1088][1][FATAL] field_defs should be an array
+Fri Apr 13 11:45:05 2018 [734][1][FATAL] field_defs should be an array
+Fri Apr 13 12:56:56 2018 [1280][1][FATAL] field_defs should be an array
+Fri Apr 13 13:04:38 2018 [1280][1][FATAL] field_defs should be an array
+Fri Apr 13 13:12:09 2018 [733][1][FATAL] Class Connectors does not exist, unable to rename.
+Fri Apr 13 13:12:09 2018 [733][1][FATAL] Class Version does not exist, unable to rename.
+Fri Apr 13 13:12:09 2018 [733][1][FATAL] Class CustomFields does not exist, unable to rename.
+Fri Apr 13 13:12:09 2018 [733][1][FATAL] Class Audit does not exist, unable to rename.
+Fri Apr 13 13:15:46 2018 [1281][1][FATAL] Class Connectors does not exist, unable to rename.
+Fri Apr 13 13:15:46 2018 [1281][1][FATAL] Class Version does not exist, unable to rename.
+Fri Apr 13 13:15:46 2018 [1281][1][FATAL] Class CustomFields does not exist, unable to rename.
+Fri Apr 13 13:15:46 2018 [1281][1][FATAL] Class Audit does not exist, unable to rename.
+Fri Apr 13 13:43:54 2018 [733][1][FATAL] field_defs should be an array
+Fri Apr 13 13:53:44 2018 [732][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Apr 13 13:54:40 2018 [734][1][FATAL] field_defs should be an array
+Fri Apr 13 13:54:48 2018 [734][1][FATAL] field_defs should be an array
+Fri Apr 13 13:55:18 2018 [733][1][FATAL] field_defs should be an array
+Fri Apr 13 13:59:45 2018 [1022][1][FATAL] Class Connectors does not exist, unable to rename.
+Fri Apr 13 13:59:45 2018 [1022][1][FATAL] Class Version does not exist, unable to rename.
+Fri Apr 13 13:59:45 2018 [1022][1][FATAL] Class CustomFields does not exist, unable to rename.
+Fri Apr 13 13:59:45 2018 [1022][1][FATAL] Class Audit does not exist, unable to rename.
+Fri Apr 13 14:01:13 2018 [743][1][FATAL] field_defs should be an array
+Fri Apr 13 14:01:53 2018 [1128][1][FATAL] field_defs should be an array
+Fri Apr 13 14:06:21 2018 [1134][1][FATAL] field_defs should be an array
+Fri Apr 13 14:07:25 2018 [1131][1][FATAL] field_defs should be an array
+Fri Apr 13 14:07:56 2018 [1151][1][FATAL] field_defs should be an array
+Fri Apr 13 14:08:23 2018 [1134][1][FATAL] field_defs should be an array
+Fri Apr 13 14:09:29 2018 [684][-none-][FATAL] Could not connect to DB server localhost as suitecrm. port : No such file or directory
+Fri Apr 13 14:39:40 2018 [1159][1][FATAL]  Query Failed:  SELECT (SQRT((69.1*((prospects_cstm.jjwg_maps_lat_c)-()))*(69.1*((prospects_cstm.jjwg_maps_lat_c)-()))+(53.0*((prospects_cstm.jjwg_maps_lng_c)-()) * COS(()/57.1))*(53.0*((prospects_cstm.jjwg_maps_lng_c)-()) * COS(()/57.1)))) AS display_object_distance,  prospects.* ,prospects_cstm.ccf_skills_police_c,prospects_cstm.lbl_ccf_ht_pm_tl_refresher_c,prospects_cstm.ccf_ht_support_tl_refresher_c,prospects_cstm.ccf_medication_allergies_c,prospects_cstm.ccf_skills_attorney_c,prospects_cstm.ccf_food_allergies_c,prospects_cstm.ccf_ht_radicalhosting_c,prospects_cstm.jjwg_maps_geocode_status_c,prospects_cstm.ccf_skills_singing_c,prospects_cstm.ccf_area__pastor_c,prospects_cstm.ccf_job_profession_c,prospects_cstm.ccf_skills_programming_c,prospects_cstm.ccf_dgroup_leader_name_c,prospects_cstm.ccf_blood_type_c,prospects_cstm.ccf_skills_audio_c,prospects_cstm.jjwg_maps_address_c,prospects_cstm.ccf_mininv_family_c,prospects_cstm.ccf_civil_status_c,prospects_cstm.ccf_emer_name_c,prospects_cstm.ccf_skills_music_c,prospects_cstm.ccf_ht_pm_tl_refresher_c,prospects_cstm.ccf_skills_video_c,prospects_cstm.ccf_company_c,prospects_cstm.ccf_ht_mindset_c,prospects_cstm.ccf_dgroup_times_c,prospects_cstm.ccf_skills_planning_c,prospects_cstm.ccf_skills_fire_c,prospects_cstm.ccf_im_type_c,prospects_cstm.ccf_ht_other_training_c,prospects_cstm.ccf_mininv_parkingshuttle_c,prospects_cstm.ccf_rheumatism_c,prospects_cstm.ccf_dgroup_day_c,prospects_cstm.ccf_host_service_date_c,prospects_cstm.ccf_truelife_date_c,prospects_cstm.ccf_mininv_law_c,prospects_cstm.ccf_skills_dance_c,prospects_cstm.ccf_high_blood_c,prospects_cstm.ccf_skills_med_c,prospects_cstm.ccf_skills_accounting_c,prospects_cstm.ccf_arthritis_c,prospects_cstm.ccf_glc1_date_c,prospects_cstm.ccf_scoliosis_c,prospects_cstm.ccf_host_orientation_c,prospects_cstm.ccf_glc2_date_c,prospects_cstm.ccf_emer_relation_c,prospects_cstm.ccf_mininv_nxtgen_c,prospects_cstm.ccf_volunteer_c,prospects_cstm.ccf_skills_msoffice_c,prospects_cstm.ccf_host_2017_fellowship_c,prospects_cstm.ccf_mininv_hosting_c,prospects_cstm.ccf_mininv_exalt_c,prospects_cstm.ccf_mininv_sports_c,prospects_cstm.ccc_photo_c,prospects_cstm.ccf_heart_issues_c,prospects_cstm.ccf_dgroup_leader_phone_c,prospects_cstm.ccf_mininv_sns_c,prospects_cstm.ccf_gender_c,prospects_cstm.ccf_skills_training_c,prospects_cstm.ccf_skills_drama_c,prospects_cstm.ccf_vertigo_c,prospects_cstm.ccf_skills_videoproduction_c,prospects_cstm.ccf_mininv_liveproduction_c,prospects_cstm.ccf_dgroup_type_c,prospects_cstm.ccf_emer_phone_c,prospects_cstm.ccf_dgroup_leader_c,prospects_cstm.ccf_idc_date_c,prospects_cstm.jjwg_maps_lat_c,prospects_cstm.ccf_dgroup_date_c,prospects_cstm.ccf_skills_photography_c,prospects_cstm.google_maps_c,prospects_cstm.ccd_d12_leader_c,prospects_cstm.jjwg_maps_lng_c,prospects_cstm.ccf_mininv_choir_c,prospects_cstm.ccf_im_name_c,prospects_cstm.ccf_couples_date_c,prospects_cstm.ccf_med_other_c, LTRIM(RTRIM(CONCAT(IFNULL(prospects.first_name,''),' ',IFNULL(prospects.last_name,'')))) as name , jt0.user_name modified_by_name , jt0.created_by modified_by_name_owner  , 'Users' modified_by_name_mod , jt1.user_name created_by_name , jt1.created_by created_by_name_owner  , 'Users' created_by_name_mod , jt2.user_name assigned_user_name , jt2.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, LTRIM(RTRIM(CONCAT(IFNULL(prospects.first_name,''),' ',IFNULL(prospects.last_name,'')))) as full_name, '                                                                                                                                                                                                                                                              ' e_invite_status_fields , '                                    '  fp_events_prospects_1fp_events_ida , '                                                                                                                                                                                                                                                              ' e_accept_status_fields  FROM prospects  LEFT JOIN prospects_cstm ON prospects.id = prospects_cstm.id_c   LEFT JOIN  users jt0 ON prospects.modified_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0  LEFT JOIN  users jt1 ON prospects.created_by=jt1.id AND jt1.deleted=0
+
+ AND jt1.deleted=0  LEFT JOIN  users jt2 ON prospects.assigned_user_id=jt2.id AND jt2.deleted=0
+
+ AND jt2.deleted=0 where ((prospects_cstm.jjwg_maps_lat_c != 0 OR prospects_cstm.jjwg_maps_lng_c != 0)  AND (prospects_cstm.jjwg_maps_geocode_status_c = 'OK') AND (SQRT((69.1*((prospects_cstm.jjwg_maps_lat_c)-()))*(69.1*((prospects_cstm.jjwg_maps_lat_c)-()))+(53.0*((prospects_cstm.jjwg_maps_lng_c)-()) * COS(()/57.1))*(53.0*((prospects_cstm.jjwg_maps_lng_c)-()) * COS(()/57.1))) < 25.0000)) AND prospects.deleted=0 LIMIT 0,1000: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')))*(69.1*((prospects_cstm.jjwg_maps_lat_c)-()))+(53.0*((prospects_cstm.jjwg_map' at line 1
+Fri Apr 13 15:35:41 2018 [1093][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Apr 13 15:38:34 2018 [1073][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Apr 13 15:40:42 2018 [1771][1][FATAL] field_defs should be an array
+Fri Apr 13 15:43:08 2018 [1839][1][FATAL] field_defs should be an array
+Fri Apr 13 15:50:21 2018 [1852][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Apr 13 17:09:42 2018 [740][58c74cd8-e26e-404c-f773-5acc1bfd6bcb][FATAL] field_defs should be an array
+Fri Apr 13 17:13:42 2018 [993][-none-][FATAL] SECURITY: User authentication for DoyBruce failed
+Fri Apr 13 17:13:42 2018 [993][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[DoyBruce]
+Fri Apr 13 17:13:48 2018 [993][-none-][FATAL] SECURITY: User authentication for DoyBruce failed
+Fri Apr 13 17:13:48 2018 [993][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[DoyBruce]
+Fri Apr 13 17:20:20 2018 [1027][12c97da7-6c25-bd94-eb1f-5acc51569553][FATAL] field_defs should be an array
+Fri Apr 13 17:23:17 2018 [1348][58c74cd8-e26e-404c-f773-5acc1bfd6bcb][FATAL] field_defs should be an array
+Fri Apr 13 17:31:56 2018 [1380][58c74cd8-e26e-404c-f773-5acc1bfd6bcb][FATAL] field_defs should be an array
+Fri Apr 13 17:33:17 2018 [1348][58c74cd8-e26e-404c-f773-5acc1bfd6bcb][FATAL] SugarPHPMailer encountered an error: Invalid address:  (addAnAddress to): 
+Fri Apr 13 17:33:53 2018 [1380][58c74cd8-e26e-404c-f773-5acc1bfd6bcb][FATAL] field_defs should be an array
+Fri Apr 13 17:40:00 2018 [1371][ed92e6a3-e9bc-f975-1efb-5acc51ca4452][FATAL] field_defs should be an array
+Fri Apr 13 17:41:59 2018 [1380][58c74cd8-e26e-404c-f773-5acc1bfd6bcb][FATAL] field_defs should be an array
+Fri Apr 13 17:46:36 2018 [1027][ed92e6a3-e9bc-f975-1efb-5acc51ca4452][FATAL] field_defs should be an array
+Fri Apr 13 17:48:08 2018 [1027][ed92e6a3-e9bc-f975-1efb-5acc51ca4452][FATAL] field_defs should be an array
+Fri Apr 13 18:07:30 2018 [740][7372e464-f0a3-a53f-3b06-5acc50a5a460][FATAL] SugarPHPMailer encountered an error: Invalid address:  (addAnAddress to): 
+Sat Apr 14 01:45:34 2018 [942][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Documents/DetailView.tpl
+Sat Apr 14 01:49:37 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/SearchForm_basic.tpl
+Sat Apr 14 01:49:37 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/SearchFormHeader.tpl
+Sat Apr 14 01:49:37 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/SearchFormFooter.tpl
+Sat Apr 14 01:49:56 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/DetailView.tpl
+Sat Apr 14 01:50:42 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Documents/DetailView.tpl
+Sat Apr 14 01:56:06 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/SearchForm_basic.tpl
+Sat Apr 14 01:56:06 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/SearchFormHeader.tpl
+Sat Apr 14 01:56:06 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/SearchFormFooter.tpl
+Sat Apr 14 02:00:03 2018 [608][1][FATAL] field_defs should be an array
+Sat Apr 14 02:00:03 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/FP_Event_Locations/EditView.tpl
+Sat Apr 14 02:01:02 2018 [964][1][FATAL] field_defs should be an array
+Sat Apr 14 02:01:02 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/FP_Event_Locations/EditView.tpl
+Sat Apr 14 02:01:09 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_KnowledgeBase/DetailView.tpl
+Sat Apr 14 02:01:23 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchForm_basic.tpl
+Sat Apr 14 02:01:23 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormHeader.tpl
+Sat Apr 14 02:01:23 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormFooter.tpl
+Sat Apr 14 02:01:26 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/DetailView.tpl
+Sat Apr 14 02:04:08 2018 [1005][1][FATAL] field_defs should be an array
+Sat Apr 14 02:04:08 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/FP_Event_Locations/EditView.tpl
+Sat Apr 14 02:04:46 2018 [609][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_KnowledgeBase/DetailView.tpl
+Sat Apr 14 02:05:24 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchForm_basic.tpl
+Sat Apr 14 02:05:24 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormHeader.tpl
+Sat Apr 14 02:05:24 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormFooter.tpl
+Sat Apr 14 02:05:34 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/DetailView.tpl
+Sat Apr 14 02:05:40 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchForm_basic.tpl
+Sat Apr 14 02:05:40 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormHeader.tpl
+Sat Apr 14 02:05:40 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormFooter.tpl
+Sat Apr 14 02:06:19 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Documents/DetailView.tpl
+Sat Apr 14 02:07:09 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Notes/DetailView.tpl
+Sat Apr 14 02:08:04 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/SearchForm_basic.tpl
+Sat Apr 14 02:08:04 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/SearchFormHeader.tpl
+Sat Apr 14 02:08:04 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/SearchFormFooter.tpl
+Sat Apr 14 02:08:07 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Tasks/SearchForm_basic.tpl
+Sat Apr 14 02:08:07 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Tasks/SearchFormHeader.tpl
+Sat Apr 14 02:08:07 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Tasks/SearchFormFooter.tpl
+Sat Apr 14 02:08:10 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Tasks/DetailView.tpl
+Sat Apr 14 02:08:30 2018 [1052][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Prospects/SearchForm_basic.tpl
+Sat Apr 14 02:08:49 2018 [1046][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/SearchForm_basic.tpl
+Sat Apr 14 02:08:49 2018 [1046][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/SearchFormHeader.tpl
+Sat Apr 14 02:08:49 2018 [1046][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/SearchFormFooter.tpl
+Sat Apr 14 02:08:54 2018 [1050][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/DetailView.tpl
+Sat Apr 14 02:09:39 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Notes/DetailView.tpl
+Sat Apr 14 02:10:00 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Documents/DetailView.tpl
+Sat Apr 14 02:10:19 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchForm_basic.tpl
+Sat Apr 14 02:10:19 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormHeader.tpl
+Sat Apr 14 02:10:19 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOR_Reports/SearchFormFooter.tpl
+Sat Apr 14 02:10:39 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Surveys/SearchForm_basic.tpl
+Sat Apr 14 02:10:39 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Surveys/SearchFormHeader.tpl
+Sat Apr 14 02:10:39 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Surveys/SearchFormFooter.tpl
+Sat Apr 14 02:19:25 2018 [1052][1][FATAL] field_defs should be an array
+Sat Apr 14 02:19:25 2018 [1052][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/EditView.tpl
+Sat Apr 14 02:22:21 2018 [1005][1][FATAL] field_defs should be an array
+Sat Apr 14 02:22:21 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/EditView.tpl
+Sat Apr 14 02:26:56 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/SearchForm_basic.tpl
+Sat Apr 14 02:26:56 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/SearchFormHeader.tpl
+Sat Apr 14 02:26:56 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/SearchFormFooter.tpl
+Sat Apr 14 02:26:59 2018 [964][1][FATAL] field_defs should be an array
+Sat Apr 14 02:26:59 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Calls/EditView.tpl
+Sat Apr 14 02:30:15 2018 [1050][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/SearchForm_basic.tpl
+Sat Apr 14 02:30:45 2018 [608][1][FATAL] field_defs should be an array
+Sat Apr 14 02:30:45 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOW_WorkFlow/EditView.tpl
+Sat Apr 14 02:31:11 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Emails/SearchForm_basic.tpl
+Sat Apr 14 02:31:11 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Emails/SearchFormHeader.tpl
+Sat Apr 14 02:31:11 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Emails/SearchFormFooter.tpl
+Sat Apr 14 02:31:22 2018 [964][1][FATAL] field_defs should be an array
+Sat Apr 14 02:31:22 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Emails/EditView.tpl
+Sat Apr 14 02:31:40 2018 [1222][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/jjwg_Maps/SearchForm_basic.tpl
+Sat Apr 14 02:31:40 2018 [1222][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/jjwg_Maps/SearchFormHeader.tpl
+Sat Apr 14 02:31:40 2018 [1222][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/jjwg_Maps/SearchFormFooter.tpl
+Sat Apr 14 02:32:34 2018 [1046][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/SearchForm_basic.tpl
+Sat Apr 14 02:32:48 2018 [609][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/jjwg_Address_Cache/SearchForm_basic.tpl
+Sat Apr 14 02:32:48 2018 [609][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/jjwg_Address_Cache/SearchFormHeader.tpl
+Sat Apr 14 02:32:48 2018 [609][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/jjwg_Address_Cache/SearchFormFooter.tpl
+Sat Apr 14 02:33:28 2018 [1221][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/EmailTemplates/SearchForm_basic.tpl
+Sat Apr 14 02:33:28 2018 [1221][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/EmailTemplates/SearchFormHeader.tpl
+Sat Apr 14 02:33:28 2018 [1221][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/EmailTemplates/SearchFormFooter.tpl
+Sat Apr 14 02:33:35 2018 [1221][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/EmailTemplates/SearchForm_basic.tpl
+Sat Apr 14 02:33:35 2018 [1221][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/EmailTemplates/SearchFormHeader.tpl
+Sat Apr 14 02:33:35 2018 [1221][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/EmailTemplates/SearchFormFooter.tpl
+Sat Apr 14 02:36:41 2018 [607][1][FATAL] field_defs should be an array
+Sat Apr 14 02:36:41 2018 [607][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Contacts/EditView.tpl
+Sat Apr 14 02:44:57 2018 [607][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ProspectLists/SearchForm_basic.tpl
+Sat Apr 14 02:46:05 2018 [1005][1][FATAL] field_defs should be an array
+Sat Apr 14 02:46:05 2018 [1005][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/EditView.tpl
+Sat Apr 14 02:46:41 2018 [964][1][FATAL] field_defs should be an array
+Sat Apr 14 02:46:41 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/EditView.tpl
+Sat Apr 14 02:49:49 2018 [608][1][FATAL] field_defs should be an array
+Sat Apr 14 02:49:49 2018 [608][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/EditView.tpl
+Sat Apr 14 02:52:17 2018 [964][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/DetailView.tpl
+Sat Apr 14 02:53:27 2018 [1222][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchForm_basic.tpl
+Sat Apr 14 02:53:27 2018 [1222][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormHeader.tpl
+Sat Apr 14 02:53:27 2018 [1222][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormFooter.tpl
+Sat Apr 14 02:53:42 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/DetailView.tpl
+Sat Apr 14 02:53:46 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchForm_basic.tpl
+Sat Apr 14 02:53:46 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormHeader.tpl
+Sat Apr 14 02:53:46 2018 [606][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormFooter.tpl
+Sat Apr 14 02:54:32 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchForm_basic.tpl
+Sat Apr 14 02:54:32 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormHeader.tpl
+Sat Apr 14 02:54:32 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormFooter.tpl
+Sat Apr 14 02:54:36 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/DetailView.tpl
+Sat Apr 14 02:59:34 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchForm_basic.tpl
+Sat Apr 14 02:59:34 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormHeader.tpl
+Sat Apr 14 02:59:34 2018 [605][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/AOK_Knowledge_Base_Categories/SearchFormFooter.tpl
+Sat Apr 14 03:01:42 2018 [1046][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Users/SearchForm_basic.tpl
+Sat Apr 14 03:02:27 2018 [607][1][FATAL] field_defs should be an array
+Sat Apr 14 03:02:27 2018 [607][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/Users/EditView.tpl
+Sat Apr 14 03:03:26 2018 [1359][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/ACLRoles/SearchForm_basic.tpl
+Sat Apr 14 03:04:00 2018 [1361][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/SearchForm_basic.tpl
+Sat Apr 14 03:04:00 2018 [1361][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/SearchFormHeader.tpl
+Sat Apr 14 03:04:00 2018 [1361][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/SearchFormFooter.tpl
+Sat Apr 14 03:04:03 2018 [1361][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/DetailView.tpl
+Sat Apr 14 03:04:35 2018 [1315][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/SearchForm_basic.tpl
+Sat Apr 14 03:04:35 2018 [1315][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/SearchFormHeader.tpl
+Sat Apr 14 03:04:35 2018 [1315][1][FATAL] File does not exist on system: cache/themes/SuiteP/modules/SecurityGroups/SearchFormFooter.tpl
+Sat Apr 14 03:06:06 2018 [1369][1][FATAL] field_defs should be an array
+Sat Apr 14 03:08:53 2018 [964][1][FATAL] Class Connectors does not exist, unable to rename.
+Sat Apr 14 03:08:53 2018 [964][1][FATAL] Class Version does not exist, unable to rename.
+Sat Apr 14 03:08:53 2018 [964][1][FATAL] Class CustomFields does not exist, unable to rename.
+Sat Apr 14 03:08:53 2018 [964][1][FATAL] Class Audit does not exist, unable to rename.
+Sat Apr 14 03:14:35 2018 [1384][1][FATAL] field_defs should be an array
+Sat Apr 14 03:17:48 2018 [602][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Apr 14 03:17:48 2018 [602][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[admin]
+Sat Apr 14 03:18:00 2018 [600][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Apr 14 03:18:00 2018 [600][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[admin]
+Sat Apr 14 03:18:09 2018 [1013][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Apr 14 03:18:09 2018 [1013][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[admin]
+Sat Apr 14 03:18:28 2018 [1010][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Apr 14 03:18:28 2018 [1010][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[admin]
+Sat Apr 14 03:18:33 2018 [1010][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Apr 14 03:18:33 2018 [1010][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.7], username[admin]
+Sat Apr 14 03:19:06 2018 [601][1][FATAL] field_defs should be an array
+Sat Apr 14 03:21:09 2018 [1018][1][FATAL] field_defs should be an array
+Sat Apr 14 03:21:32 2018 [1031][1][FATAL] field_defs should be an array
+Sat Apr 14 03:22:00 2018 [1012][1][FATAL] field_defs should be an array
+Sat Apr 14 03:22:03 2018 [1012][1][FATAL] field_defs should be an array
+Sat Apr 14 03:22:19 2018 [1019][1][FATAL] field_defs should be an array
+Sat Apr 14 03:22:40 2018 [1016][1][FATAL] field_defs should be an array
+Sat Apr 14 03:25:32 2018 [1009][1][FATAL] field_defs should be an array
+Sat Apr 14 03:25:41 2018 [1011][1][FATAL] field_defs should be an array
+Sat Apr 14 03:25:57 2018 [1017][1][FATAL] field_defs should be an array
+Sat Apr 14 03:26:20 2018 [1011][1][FATAL] field_defs should be an array
+Sat Apr 14 03:26:25 2018 [1011][1][FATAL] field_defs should be an array
+Sat Apr 14 03:27:51 2018 [600][1][FATAL] field_defs should be an array
+Sat Apr 14 03:30:33 2018 [600][1][FATAL] field_defs should be an array
+Sat Apr 14 03:39:40 2018 [1010][1][FATAL] field_defs should be an array
+Sat Apr 14 03:41:21 2018 [1010][1][FATAL] field_defs should be an array
+Sat Apr 14 03:42:37 2018 [1083][1][FATAL] field_defs should be an array
+Sat Apr 14 03:43:39 2018 [1004][1][FATAL] field_defs should be an array
+Sat Apr 14 03:52:33 2018 [1077][1][FATAL] field_defs should be an array
+Sat Apr 14 03:57:04 2018 [608][1][FATAL] field_defs should be an array
+Sat Apr 14 03:58:06 2018 [1012][1][FATAL] field_defs should be an array
+Sat Apr 14 03:59:41 2018 [607][1][FATAL] field_defs should be an array
+Sat Apr 14 04:01:06 2018 [1017][1][FATAL] field_defs should be an array
+Sat Apr 14 04:06:34 2018 [1017][1][FATAL] field_defs should be an array

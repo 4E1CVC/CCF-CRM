@@ -1,0 +1,49 @@
+<?php
+$listViewDefs ['Prospects'] = 
+array (
+  'FULL_NAME' => 
+  array (
+    'width' => '20%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'related_fields' => 
+    array (
+      0 => 'first_name',
+      1 => 'last_name',
+    ),
+    'orderBy' => 'last_name',
+    'default' => true,
+  ),
+  'PRIMARY_ADDRESS_CITY' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_PRIMARY_ADDRESS_CITY',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'DEPARTMENT' => 
+  array (
+    'type' => 'varchar',
+    'label' => 'LBL_DEPARTMENT',
+    'width' => '10%',
+    'default' => true,
+  ),
+  'CCF_VOLUNTEER_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_VOLUNTEER',
+    'width' => '10%',
+  ),
+  'ASSIGNED_USER_NAME' => 
+  array (
+    'link' => true,
+    'type' => 'relate',
+    'label' => 'LBL_ASSIGNED_TO_NAME',
+    'id' => 'ASSIGNED_USER_ID',
+    'width' => '10%',
+    'default' => true,
+  ),
+);
+;
+?>

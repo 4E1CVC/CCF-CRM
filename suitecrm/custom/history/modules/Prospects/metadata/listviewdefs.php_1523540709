@@ -1,0 +1,62 @@
+<?php
+$listViewDefs ['Prospects'] = 
+array (
+  'FULL_NAME' => 
+  array (
+    'width' => '20%',
+    'label' => 'LBL_LIST_NAME',
+    'link' => true,
+    'related_fields' => 
+    array (
+      0 => 'first_name',
+      1 => 'last_name',
+    ),
+    'orderBy' => 'last_name',
+    'default' => true,
+  ),
+  'CCF_SKILLS_MED_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_SKILLS_MED',
+    'width' => '10%',
+  ),
+  'CCF_SKILLS_FIRE_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_SKILLS_FIRE',
+    'width' => '10%',
+  ),
+  'CCF_BLOOD_TYPE_C' => 
+  array (
+    'type' => 'enum',
+    'default' => true,
+    'studio' => 'visible',
+    'label' => 'LBL_CCF_BLOOD_TYPE',
+    'width' => '10%',
+  ),
+  'CCF_HEART_ISSUES_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_HEART_ISSUES',
+    'width' => '10%',
+  ),
+  'CCF_VERTIGO_C' => 
+  array (
+    'type' => 'bool',
+    'default' => true,
+    'label' => 'LBL_CCF_VERTIGO',
+    'width' => '10%',
+  ),
+  'CCF_MED_OTHER_C' => 
+  array (
+    'type' => 'varchar',
+    'default' => true,
+    'label' => 'LBL_CCF_MED_OTHER',
+    'width' => '10%',
+  ),
+);
+;
+?>
